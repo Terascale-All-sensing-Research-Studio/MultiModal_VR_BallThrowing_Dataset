@@ -1,1 +1,3 @@
-# VR_BallThrowing_Dataset
+# VR BallThrowing Dataset for Brief paper
+
+To be completed soon!
