@@ -13,7 +13,7 @@ We also include compressed data obtained from the VR devices during the collecti
 ### More information of keypoints strategy used in MMPose:
 https://github.com/open-mmlab/mmpose/tree/main/mmpose/datasets/datasets/body
 
-## [openpose_results](https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/tree/main/openpose_results)
+## [openpose_results](https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/tree/main/openpose_results_json)
 
 <div align="left">
 <img src="https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/blob/main/figs/User25_Cosmos1_Session0.gif" width=60% height=60%>
