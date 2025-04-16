@@ -12,7 +12,14 @@ We also include compressed data obtained from the VR devices during the collecti
 
 Uses COCO key points.
 
-Visual examples (same as the ones from openpose) will be uploaded soon.
+Visual examples:
+<div align="left">
+<img src="https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/blob/main/figs/mmpose_User25_Cosmos1_Session0.gif" width=60% height=60%>
+</div>
+
+<div align="left">
+<img src="https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/blob/main/figs/mmpose_User28_Cosmos1_Session0.gif" width=60% height=60%>
+</div>
 
 ### More information of keypoints strategy used in [MMPose](https://github.com/open-mmlab/mmpose/tree/main):
 https://github.com/open-mmlab/mmpose/tree/main/mmpose/datasets/datasets/body
