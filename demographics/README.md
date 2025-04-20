@@ -1,5 +1,13 @@
 ## User Demographics
 
+The file demographics.csv provides user demographics for: **Age**, **Height (in)**, **Weight (lb)**, **Writing Hand**, **Throwing Hand**, **Throwing Sport Experience**, **Type of Throwing Sport**, and **VR Experience**. The value of **ID** is matched to the same users in the croppedvideo, mmpose, and openpose body pose data folders. 
+
++ **Throwing Sport Experience** is a Likert-like scale with values ranging from none, low, low-medium, medium, medium-high, high
+
++ **VR Experience** is a Likert-like scale with values ranging from none, low, low-medium, medium, medium-high, high
+
++ A (blank) indicates that the participant did not provide data for that field. 
+
 | ID	| Age |	Height (in)	| Weight (lbs)	| Writing Hand |	Throwing Hand |	Throwing Sport Experience	| Type of Throwing Sport	| VR Experience |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 100 | 32 | 63 | 124 | right | right | low | badminton | medium |
