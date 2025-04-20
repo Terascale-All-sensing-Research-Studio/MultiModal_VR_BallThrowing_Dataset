@@ -8,7 +8,7 @@
 [Summary Statistics](#summary-statistics)
 
 ### Overview
-The file capturetimedata.csv provides time difference (in days) between captures. All participants provided data on the devices in the following order: Quest, Vive, Cosmos. The value of **ID** is matched to the same users in the croppedvideo, mmpose, and openpose body pose data folders. The column names are as follows:
+The file capturetimedata.csv provides time difference (in days) between captures. All participants provided data on the devices in the following order: Quest, Vive, Cosmos. All participants provided data on two days. No two VR systems were used on the same day. The value of **ID** is matched to the same users in the croppedvideo, mmpose, and openpose body pose data folders. The column names are as follows:
 
 + **Q1Q2Diff**: Difference in days between Quest Day 2 and Quest Day 2
 + **Q1V1Diff**: Difference in days between Quest Day 1 and Vive Day 1
@@ -76,18 +76,18 @@ We provide summary statistics for the temporal difference (in days) between capt
 
 | SystemPair | Min |	Max |	Average |
 |--|--|--|--|
-| Q1Q2Diff | 1 | 6 | 1.17 |
-| Q1V1Diff | 2 | 10 | 3.44 |
-| Q1V2Diff | 3 | 13 | 6.44 |
-| Q1C1Diff | 7 | 28 | 14.59 |
-| Q1C2Diff | 8 | 30 | 16.63 |
-| Q2V1Diff | 1 | 8 | 2.27 |
-| Q2V2Diff | 2 | 12 | 5.27 |
-| Q2C1Diff | 3 | 27 | 13.41 |
-| Q2C2Diff | 4 | 29 | 15.46 |
-| V1V2Diff | 1 | 7 | 3.00 |
-| V1C1Diff | 2 | 26 | 11.15 |
-| V1C2Diff | 3 | 28 | 13.20 |
-| V2C1Diff | 1 | 25 | 8.15 |
-| V2C2Diff | 2 | 27 | 10.20 | 
-| C1C2Diff | 1 | 6 | 2.05 |
+| Q1Q2 | 1 | 6 | 1.17 |
+| Q1V1 | 2 | 10 | 3.44 |
+| Q1V2 | 3 | 13 | 6.44 |
+| Q1C1 | 7 | 28 | 14.59 |
+| Q1C2 | 8 | 30 | 16.63 |
+| Q2V1 | 1 | 8 | 2.27 |
+| Q2V2 | 2 | 12 | 5.27 |
+| Q2C1 | 3 | 27 | 13.41 |
+| Q2C2 | 4 | 29 | 15.46 |
+| V1V2 | 1 | 7 | 3.00 |
+| V1C1 | 2 | 26 | 11.15 |
+| V1C2 | 3 | 28 | 13.20 |
+| V2C1 | 1 | 25 | 8.15 |
+| V2C2 | 2 | 27 | 10.20 | 
+| C1C2 | 1 | 6 | 2.05 |
