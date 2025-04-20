@@ -9,6 +9,7 @@ The file demographics.csv provides user demographics for: **Age**, **Height (in)
 + A (blank) indicates that the participant did not provide data for that field. 
 
 | ID | Self Identified Gender | Age | Height (in) | Weight (lbs) | Writing Hand | Throwing Hand | Throwing Sport Experience | Type of Throwing Sport | VR Experience |
+|--|--|--|--|--|--|--|--|--|--|
 | 100 | Female | 32 | 63 | 124 | right | right | low | badminton | medium |
 | 101 | Male | 30 | 67 | (blank) | right | right | low | no | low |
 | 102 | Male | 38 | 72 | 165 | right | right | low | tennis | medium |
