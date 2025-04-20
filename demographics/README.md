@@ -1,5 +1,10 @@
 ## User Demographics
 
+### Contents
+[Overview](#overview)
+[Data](#data)
+[Summary Statistics](#summary-statistics)
+
 ### Overview
 The file demographics.csv provides user demographics for: **Age**, **Height (in)**, **Weight (lb)**, **Writing Hand**, **Throwing Hand**, **Throwing Sport Experience**, **Type of Throwing Sport**, and **VR Experience**. The value of **ID** is matched to the same users in the croppedvideo, mmpose, and openpose body pose data folders. 
 
@@ -8,6 +13,7 @@ The file demographics.csv provides user demographics for: **Age**, **Height (in)
 + **Type of Throwing Sport** can take multiple values separated by a '/'.
 + A (blank) indicates that the participant did not provide data for that field. 
 
+### Data
 | ID | Self Identified Gender | Age | Height (in) | Weight (lbs) | Writing Hand | Throwing Hand | Throwing Sport Experience | Type of Throwing Sport | VR Experience |
 |--|--|--|--|--|--|--|--|--|--|
 | 100 | Female | 32 | 63 | 124 | right | right | low | badminton | medium |
