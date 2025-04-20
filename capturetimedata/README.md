@@ -72,3 +72,22 @@ The file capturetimedata.csv provides time difference (in days) between captures
 | 148 | 1 | 5 | 6 | 7 | 8 | 4 | 5 | 6 | 7 | 1 | 2 | 3 | 1 | 2 | 1 |
 
 ### Summary Statistics
+We provide summary statistics for the temporal difference (in days) between captures for each system pair.
+
+| SystemPair | Min |	Max |	Average |
+|--|--|--|--|
+| Q1Q2Diff | 1 | 6 | 1.17 |
+| Q1V1Diff | 2 | 10 | 3.44 |
+| Q1V2Diff | 3 | 13 | 6.44 |
+| Q1C1Diff | 7 | 28 | 14.59 |
+| Q1C2Diff | 8 | 30 | 16.63 |
+| Q2V1Diff | 1 | 8 | 2.27 |
+| Q2V2Diff | 2 | 12 | 5.27 |
+| Q2C1Diff | 3 | 27 | 13.41 |
+| Q2C2Diff | 4 | 29 | 15.46 |
+| V1V2Diff | 1 | 7 | 3.00 |
+| V1C1Diff | 2 | 26 | 11.15 |
+| V1C2Diff | 3 | 28 | 13.20 |
+| V2C1Diff | 1 | 25 | 8.15 |
+| V2C2Diff | 2 | 27 | 10.20 | 
+| C1C2Diff | 1 | 6 | 2.05 |
