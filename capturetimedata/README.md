@@ -27,7 +27,7 @@ The file capturetimedata.csv provides time difference (in days) between captures
 + **C1C2Diff**: Difference in days between Cosmos Day 1 and Cosmos Day 2
 
 ### Data
-Abbreviation are as follows Quest (Q), Vive (V), and Cosmos (C). A (1) represents the first day on the system and (2) represents the second day on the system. 
+Abbreviations are as follows Quest (Q), Vive (V), and Cosmos (C). A (1) represents the first day on the system and (2) represents the second day on the system. 
 
 | ID | Q1Q2Diff | Q1V1Diff | Q1V2Diff | Q1C1Diff | Q1C2Diff | Q2V1Diff | Q2V2Diff | Q2C1Diff | Q2C2Diff | V1V2Diff | V1C1Diff | V1C2Diff | V2C1Diff | V2C2Diff | C1C2Diff |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
