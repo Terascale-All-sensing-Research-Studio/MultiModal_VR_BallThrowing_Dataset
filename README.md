@@ -1,5 +1,21 @@
 # MultiModal VR BallThrowing Dataset for VR Biometrics
 
+## Contents
+[Description](#description)
+
+[Contributors](#contributors)
+
+[Overview of Dataset](#overview-of-dataset)
+
+## Description
+
+## Contributors
+Mingjun Li, Natasha Kholgade Banerjee,  Sean Banerjee
+
+[Terascale All-sensing Research Studio](https://tars-home.github.io)
+
+## Overview of Dataset
+
 ## [Cropped Videos](https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/tree/main/CroppedVideos) 
 
 We include the raw videos from a side view of the participants while they provided data.
