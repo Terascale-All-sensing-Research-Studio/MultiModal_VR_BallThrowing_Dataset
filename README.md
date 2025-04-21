@@ -1,4 +1,4 @@
-# VR BallThrowing Dataset for Brief paper
+# MultiModal VR BallThrowing Dataset for VR Biometrics
 
 ## [Cropped Videos](https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/tree/main/CroppedVideos) 
 
