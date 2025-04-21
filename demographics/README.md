@@ -65,7 +65,7 @@ The file demographics.csv provides user demographics for: **Self Identified Gend
 We provide summary statistics of our user demographics below:
 
 **Age, Height, Weight Summary**
-| Field |	Min |	Max |	Average |
+| Demographic |	Min |	Max |	Average |
 |--|--|--|--|
 | Age	| 18	| 38	| 20.76 |
 | Height (in) |	63	| 78	| 70.94 |
