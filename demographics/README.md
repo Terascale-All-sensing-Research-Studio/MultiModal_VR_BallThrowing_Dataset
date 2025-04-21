@@ -72,7 +72,7 @@ We provide summary statistics of our user demographics below:
 | Weight (lbs) | 124	| 285 |	181.89 |
 
 **Self Identified Gender**
-|Male|Count|
+|Self Identified Gender|Count|
 |--|--|
 | Female |	3 |
 | Male	| 38 |
