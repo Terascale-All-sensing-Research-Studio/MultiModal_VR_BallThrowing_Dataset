@@ -8,7 +8,7 @@
 [Summary Statistics](#summary-statistics)
 
 ### Overview
-The file capturetimedata.csv provides time difference (in days) between captures. All participants provided data on the systems in the following order: Quest, Vive, Cosmos. All participants provided data on two days. No two VR systems were used on the same day. The value of **ID** is matched to the same users in the [croppedvideo](../croppedvideos), [mmpose](../mmpose_results), and [openpose](../openpose_results) body pose data folders. The column names are as follows:
+The file capturetimedata.csv provides time difference (in days) between captures. All participants provided data on the systems in the following order: Quest, Vive, Cosmos. All participants provided data on two days. No two VR systems were used on the same day. The value of **ID** is matched to the same users in the [croppedvideo](../croppedvideos), [mmpose](../mmpose_results), and [openpose](../openpose_results) body pose data folders and [vrmotions](../vrmotions) VR system NumPy files. The column names are as follows:
 
 + **Q1Q2Diff**: Difference in days between Quest Day 2 and Quest Day 2
 + **Q1V1Diff**: Difference in days between Quest Day 1 and Vive Day 1
