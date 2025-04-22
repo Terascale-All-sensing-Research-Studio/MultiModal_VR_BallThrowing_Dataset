@@ -9,7 +9,7 @@
 
 ## Description
 
-![](/figs/109_Cosmos_1/0.gif)
+![](/figs/raw/109_Cosmos_1/0.gif)
 
 ## Contributors
 Mingjun Li, Natasha Kholgade Banerjee,  Sean Banerjee
