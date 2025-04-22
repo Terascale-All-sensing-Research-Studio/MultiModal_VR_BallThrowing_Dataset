@@ -1,16 +1,6 @@
-# [openpose_results](https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/tree/main/openpose_results_json)
+## OpenPose Body Keypoints
 
-Uses COCO key points.
-
-<div align="left">
-<img src="https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/blob/main/figs/User25_Cosmos1_Session0.gif" width=60% height=60%>
-</div>
-
-<div align="left">
-<img src="https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/blob/main/figs/User28_Cosmos1_Session0.gif" width=60% height=60%>
-</div>
-
-## [List of the COCO key points](https://github.com/jin-s13/COCO-WholeBody/tree/master?tab=readme-ov-file)
+For each participant we use the [croppedvideos](../croppedvideos) to generate [COCO key points](https://github.com/jin-s13/COCO-WholeBody/tree/master?tab=readme-ov-file) using [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose). We generate the following body keypoints and associated indices. 
 
 ```bash
 0: 'nose',
