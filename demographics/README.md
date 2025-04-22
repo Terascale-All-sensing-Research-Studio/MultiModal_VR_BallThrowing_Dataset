@@ -8,7 +8,7 @@
 [Summary Statistics](#summary-statistics)
 
 ### Overview
-The file demographics.csv provides user demographics for: **Self Identified Gender**, **Age**, **Height (in)**, **Weight (lb)**, **Writing Hand**, **Throwing Hand**, **Throwing Sport Experience**, **Type of Throwing Sport**, and **VR Experience**. The value of **ID** is matched to the same users in the croppedvideo, mmpose, and openpose body pose data folders. 
+The file demographics.csv provides user demographics for: **Self Identified Gender**, **Age**, **Height (in)**, **Weight (lb)**, **Writing Hand**, **Throwing Hand**, **Throwing Sport Experience**, **Type of Throwing Sport**, and **VR Experience**. The value of **ID** is matched to the same users in the [croppedvideo](../croppedvideos), [mmpose](../mmpose_results), and [openpose](../openpose_results) body pose data folders and [vrmotions](../vrmotions) VR system NumPy files. 
 
 + **Throwing Sport Experience** is a Likert-like scale with values ranging from none, low, low-medium, medium, medium-high, high.
 + **VR Experience** is a Likert-like scale with values ranging from none, low, low-medium, medium, medium-high, high.
