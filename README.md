@@ -9,7 +9,7 @@
 
 ## Description
 
-![](/figs/vrmotion/trajectories.jpg)
+![](/figs/vrmotion/trajectories.png)
 
 ## Contributors
 Mingjun Li, Natasha Kholgade Banerjee,  Sean Banerjee
