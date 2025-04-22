@@ -9,7 +9,7 @@
 
 ## Description
 
-![](/figs/raw/109_Cosmos_1/0.gif)
+![](/figs/vrmotion/trajectories.jpg)
 
 ## Contributors
 Mingjun Li, Natasha Kholgade Banerjee,  Sean Banerjee
