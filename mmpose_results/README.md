@@ -21,13 +21,3 @@ For each participant we use the [croppedvideos](../croppedvideos) to generate [C
 15: 'left_ankle',
 16: 'right_ankle'
 ```
-
-Visual examples:
-<div align="left">
-<img src="https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/blob/main/figs/mmpose_User25_Cosmos1_Session0.gif" width=60% height=60%>
-</div>
-
-<div align="left">
-<img src="https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/blob/main/figs/mmpose_User28_Cosmos1_Session0.gif" width=60% height=60%>
-</div>
-
