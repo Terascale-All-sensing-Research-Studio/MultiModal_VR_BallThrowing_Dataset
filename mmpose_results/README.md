@@ -1,21 +1,6 @@
-# [mmpose_results](https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/tree/main/mmpose_results)
+## MMPose Body Keypoints
 
-Uses COCO key points.
-
-Visual examples:
-<div align="left">
-<img src="https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/blob/main/figs/mmpose_User25_Cosmos1_Session0.gif" width=60% height=60%>
-</div>
-
-<div align="left">
-<img src="https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/blob/main/figs/mmpose_User28_Cosmos1_Session0.gif" width=60% height=60%>
-</div>
-
-### More information of keypoints strategy used in [MMPose](https://github.com/open-mmlab/mmpose/tree/main):
-https://github.com/open-mmlab/mmpose/tree/main/mmpose/datasets/datasets/body
-
-
-## [List of the COCO key points](https://github.com/jin-s13/COCO-WholeBody/tree/master?tab=readme-ov-file)
+For each participant we use the [croppedvideos](../croppedvideos) to generate [COCO key points](https://github.com/jin-s13/COCO-WholeBody/tree/master?tab=readme-ov-file) using [MMPose](https://github.com/open-mmlab/mmpose/). We generate the following body keypoints and associated indices. 
 
 ```bash
 0: 'nose',
@@ -36,3 +21,13 @@ https://github.com/open-mmlab/mmpose/tree/main/mmpose/datasets/datasets/body
 15: 'left_ankle',
 16: 'right_ankle'
 ```
+
+Visual examples:
+<div align="left">
+<img src="https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/blob/main/figs/mmpose_User25_Cosmos1_Session0.gif" width=60% height=60%>
+</div>
+
+<div align="left">
+<img src="https://github.com/Terascale-All-sensing-Research-Studio/VR_BallThrowing_Dataset/blob/main/figs/mmpose_User28_Cosmos1_Session0.gif" width=60% height=60%>
+</div>
+
