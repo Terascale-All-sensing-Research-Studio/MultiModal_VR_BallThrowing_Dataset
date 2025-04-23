@@ -22,6 +22,9 @@ For each participant we use the [croppedvideos](../croppedvideos) to generate [C
 16: 'right_ankle'
 ```
 
+## Example Cropped Profile View GoPro Video With MMPose and OpenPose Body Keypoints From Dataset
+![](../figs/videos/examplevideos.gif)
+
 ## Directory Structure
 We provide individual directories for each VR system, namely Meta Quest, HTC Vive, and HTC Vive Cosmos, and day. The folder structure is as follows:
 
