@@ -30,4 +30,8 @@ We provide individual directories for each VR system, namely Meta Quest, HTC Viv
 + [quest_day1](quest_day1): contains individual subfolders for each participant's day 1 throw using the Meta Quest. The subfolder is named as XXX_Quest_1, where XXX is a 3-digit participant ID. Each subfolder contains 10 JSON files named 0.json to 9.json for each of the 10 trials for the day. 
 + [quest_day2](quest_day2): contains individual subfolders for each participant's day 2 throw using the Meta Quest. The subfolder is named as XXX_Quest_2, where XXX is a 3-digit participant ID. Each subfolder contains 10 JSON files named 0.json to 9.json for each of the 10 trials for the day. 
 + [vive_day1](vive_day1): contains individual subfolders for each participant's day 1 throw using the HTC Vive. The subfolder is named as XXX_Vive_1, where XXX is a 3-digit participant ID. Each subfolder contains 10 JSON files named 0.json to 9.json for each of the 10 trials for the day. 
-+ [vive_day2](vive_day2): contains individual subfolders for each participant's day 2 throw using the HTC Vive. The subfolder is named as XXX_Vive_2, where XXX is a 3-digit participant ID. Each subfolder contains 10 JSON files named 0.json to 9.json for each of the 10 trials for the day. 
++ [vive_day2](vive_day2): contains individual subfolders for each participant's day 2 throw using the HTC Vive. The subfolder is named as XXX_Vive_2, where XXX is a 3-digit participant ID. Each subfolder contains 10 JSON files named 0.json to 9.json for each of the 10 trials for the day.
+
+## Example Cropped Profile View GoPro Video With MMPose and OpenPose Body Keypoints
+![](../figs/videos/examplevideos.gif)
+
