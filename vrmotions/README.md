@@ -9,6 +9,9 @@ Each NumPy (npy) represents one day of data collection using each VR systems and
 
 **NOTE**: Each feature vector includes the position (x, y, z), Euler angles (x, y, z), and trigger pressure (ranging from 0 to 1) for the right-hand controller, headset, and left-hand controller. Trigger pressure values for the headset are always set to zero.
 
+## File Structure
+We provide individual files for each VR system, namely Meta Quest, HTC Vive, and HTC Vive Cosmos, and day. The files are as follows:
+
 + [Cosmos1.npy](Cosmos1.npy): Contains data for all 41 participants using the HTC Vive Cosmos on day 1 of usage with the HTC Vive Cosmos.
 + [Cosmos2.npy](Cosmos2.npy): Contains data for all 41 participants using the HTC Vive Cosmos on day 2 of usage with the HTC Vive Cosmos.
 + [Quest1.npy](Quest1.npy): Contains data for all 41 participants using the Meta Quest on day 1 of usage with the HTC Vive Cosmos.
