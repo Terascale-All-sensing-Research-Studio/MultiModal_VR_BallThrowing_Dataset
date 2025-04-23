@@ -12,7 +12,7 @@ We provide a multimodal dataset for VR biometrics comprising of 41 participants 
 
 ![](/figs/vrmotion/trajectories.png)
 
-![](https://github.com/Terascale-All-sensing-Research-Studio/MultiModal_VR_BallThrowing_Dataset/blob/main/figs/videos/examplevideos.mp4)
+![](figs/videos/examplevideos.gif)
 
 ## Contributors
 Mingjun Li, Natasha Kholgade Banerjee,  Sean Banerjee
