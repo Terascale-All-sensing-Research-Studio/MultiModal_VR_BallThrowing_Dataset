@@ -10,7 +10,11 @@
 ## Description
 We provide a multimodal dataset for VR biometrics comprising of 41 participants performing a ball throwing task in VR, while simultaneously being recorded using an external camera. Each participant provides data using the headset and hand controllers of the Meta Quest, HTC Vive, and HTC Vive Cosmos. During the interaction, we capture an external profile video of the dominant side of the participant using a GoPro Hero 7 camera. Participants perform the ball throwing activity in VR for 10 trials in each session. We record data for 6 sessions, where each session is separated by at least 1 day and participants provide data for 2 sessions using each VR system. Data is first captured using the Meta Quest, then the HTC Vive, and finally from the HTC Vive Cosmos. In each VR system we capture position and orientation data from the headset and two hand controllers as well as the trigger value from the dominant hand controller. We provide cropped videos from the GoPro at 60 frames per second along with OpenPose and MMPose body keypoints. Our data provides the Self Identified Gender, Age, Height (in), Weight (lb), Writing Hand, Throwing Hand, Throwing Sport Experience, Type of Throwing Sport, and VR Experience as user demographics for each participant. We also provide session metadata recorded as the temporal difference between each session for each participant.  
 
+**Example Headset and Hand Controller Trajectories From Dataset**
+
 ![](/figs/vrmotion/trajectories.png)
+
+**Example Cropped Profile View GoPro Video With MMPose and OpenPose Body Keypoints From Dataset**
 
 ![](figs/videos/examplevideos.gif)
 
