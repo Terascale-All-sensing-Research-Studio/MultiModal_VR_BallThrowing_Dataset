@@ -1,4 +1,4 @@
-# Multimodal Virtual Reality (VR) Ball Throwing Dataset for VR Biometrics
+# Multimodal Cross-System Virtual Reality (VR) Ball Throwing Dataset for VR Biometrics
 
 ## Contents
 [Description](#description)
