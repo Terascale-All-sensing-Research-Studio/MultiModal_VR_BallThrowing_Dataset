@@ -4,22 +4,23 @@ For each participant we use the [croppedvideos](../croppedvideos) to generate [C
 
 ```bash
 0: 'nose',
-1: 'left_eye',
-2: 'right_eye',
-3: 'left_ear',
-4: 'right_ear',
-5: 'left_shoulder',
-6: 'right_shoulder',
-7: 'left_elbow',
-8: 'right_elbow',
-9: 'left_wrist',
-10: 'right_wrist',
-11: 'left_hip',
-12: 'right_hip',
-13: 'left_knee',
-14: 'right_knee',
-15: 'left_ankle',
-16: 'right_ankle'
+1: 'neck',
+2: 'left_eye',
+3: 'right_eye',
+4: 'left_ear',
+5: 'right_ear',
+6: 'left_shoulder',
+7: 'right_shoulder',
+8: 'left_elbow',
+9: 'right_elbow',
+10: 'left_wrist',
+11: 'right_wrist',
+12: 'left_hip',
+13: 'right_hip',
+14: 'left_knee',
+15: 'right_knee',
+16: 'left_ankle',
+17: 'right_ankle'
 ```
 
 ## Directory Structure
