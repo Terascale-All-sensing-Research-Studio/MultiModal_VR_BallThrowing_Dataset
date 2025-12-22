@@ -7,6 +7,8 @@
 
 [Overview of Dataset](#overview-of-dataset)
 
+[Citation](#citation)
+
 ## Description
 We provide a multimodal dataset for VR biometrics comprising of 41 participants performing a ball throwing task in VR, while simultaneously being recorded using an external camera. Each participant provides data using the headset and hand controllers of the Meta Quest, HTC Vive, and HTC Vive Cosmos. During the interaction, we capture an external profile video of the dominant side of the participant using a GoPro Hero 7 camera. Participants perform the ball throwing activity in VR for 10 trials in each session. We record data for 6 sessions, where each session is separated by at least 1 day and participants provide data for 2 sessions using each VR system. Data is first captured using the Meta Quest, then the HTC Vive, and finally from the HTC Vive Cosmos. In each VR system we capture position and orientation data from the headset and two hand controllers as well as the trigger value from the dominant hand controller. We provide cropped videos from the GoPro at 60 frames per second along with OpenPose and MMPose body keypoints. Our data provides the Self Identified Gender, Age, Height (in), Weight (lb), Writing Hand, Throwing Hand, Throwing Sport Experience, Type of Throwing Sport, and VR Experience as user demographics for each participant. We also provide session metadata recorded as the temporal difference between each session for each participant.  
 
@@ -35,4 +37,15 @@ The dataset is organized into the following folders:
 | [openpose_results](/openpose_results) | [cosmos_day1](/openpose_results/cosmos_day1), [cosmos_day2](/openpose_results/cosmos_day2), [quest_day1](/openpose_results/quest_day1), [quest_day2](/openpose_results/quest_day2), [vive_day1](/openpose_results/vive_day1), [vive_day2](/openpose_results/vive_day2) | JSON | Each subfolder (e.g. cosmos_day1) represents the name of the VR system and a numeric for the first or second day of capture. Within each of these subfolders (e.g. cosmos_day1) there are 41 subfolders titled in the format XXX_System_Day, where XXX is a 3 digit participant ID, System is Cosmos, Quest, or Vive, and Day takes a value of 1 or 2 (e.g. 101_Cosmos1). Inside these 41 subfolders (e.g. 101_Cosmos_1) there are 10 sub-subfolders in the format Y/json, where Y ranges from 0 to 9 for the 10 trials. Within these sub-subfolders named Y/json are 180 JSON files corresponding to 180 video frames. Each JSON file contains the body pose extracted using the OpenPose toolbox. |
 | [vrmotions](/vrmotions) | None | NPY | The folder contains 6 NumPy files Cosmos1.npy, Cosmos2.npy, Quest1.npy, Quest2.npy, Vive1.npy, Vive2.npy representing each of the 3 VR systems and 2 days of capture per system. These files represent NumPy arrays with the shape (41, 10, 135, 21), where the first dimension covers the 41 participants, the second the 10 throws, the third the 135 timestamps for each throw, and the fourth the 21 total features representing the position, orientation, and trigger value for the headset and hand controllers. |
 
+## Citation
+```
+@article{li2025multimodal,
+  title={Multimodal cross-system virtual reality (VR) ball throwing dataset for VR biometrics},
+  author={Li, Mingjun and Banerjee, Natasha Kholgade and Banerjee, Sean},
+  journal={Data in Brief},
+  pages={111827},
+  year={2025},
+  publisher={Elsevier}
+}
+```
 
